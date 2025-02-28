@@ -8,11 +8,11 @@ export function Home () {
             <Header/>
             <br></br>
             <div >
-                <img className = "Photoooo" src = {Image1}/>
                 <h1>Hello!
-                <br></br>This is Utkarsh Singh,
+                <br></br>This is Utkaarsh Singh,
                 <br></br>I am an Aspiring<strong> Software Developer.</strong>  
                 </h1>
+                <img className = "Home-Image" alt="Utkarsh's_Photo" src = {Image1}/>
             </div>
             <Footer/>
         </div>
