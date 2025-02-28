@@ -9,7 +9,7 @@ export function Home () {
             <br></br>
             <div >
                 <h1>Hello!
-                <br></br>This is Utkaarsh Singh,
+                <br></br>This is Utkarsh Singh,
                 <br></br>I am an Aspiring<strong> Software Developer.</strong>  
                 </h1>
                 <img className = "Home-Image" alt="Utkarsh's_Photo" src = {Image1}/>
