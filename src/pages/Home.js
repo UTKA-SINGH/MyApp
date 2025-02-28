@@ -7,11 +7,13 @@ export function Home () {
         <div className="main-wrapper">
             <Header/>
             <br></br>
-            <h1>Hello!
+            <div >
+                <img className = "Photoooo" src = {Image1}/>
+                <h1>Hello!
                 <br></br>This is Utkarsh Singh,
-                <br></br>I am an Aspiring<strong> Software Developer.</strong>
-                <img src = {Image1}/>
-            </h1>
+                <br></br>I am an Aspiring<strong> Software Developer.</strong>  
+                </h1>
+            </div>
             <Footer/>
         </div>
     )

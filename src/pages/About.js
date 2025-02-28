@@ -3,7 +3,7 @@ import { Footer } from '../Components/Footer';
 import '../style/main.css';
 export function About () {
     return (
-        <div className="main-wrapper">
+        <div className="about-wrapper">
             <Header/>
             <br></br>
             <h1>Utkarsh Singh</h1>
